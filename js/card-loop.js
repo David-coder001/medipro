@@ -214,7 +214,6 @@ $.each(hospitals, function(index, hospitals) {
           <div class='absolute inset-0 transition duration-200 bg-gray-900 opacity-0 rounded-2xl group-hover:opacity-60'></div>
           <div class='absolute inset-0 flex flex-col items-center justify-center transition duration-200 opacity-0 group-hover:opacity-100'>
               <div class='mb-4 shadow-sm w-33 rounded-2xl'>
-                <a class="inline-flex w-full justify-center items-center px-6 py-2 rounded-2xl shadow-sm border border-transparent text-sm font-medium rounded-2xl text-cool-indigo-700 bg-white transition duration-150 hover:bg-cool-indigo-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-cool-indigo-500" target="_blank" href="/resources/app-landing-page-themes-dev/demo">Preview</a>
               </div>
             <div class='shadow-sm w-33 rounded-2xl'>
               <a class="w-full justify-center inline-flex items-center px-6 py-2 border border-transparent text-sm font-medium rounded-2xl shadow-sm text-white transition duration-150 bg-cool-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-cool-indigo-500 view-details-hos" href="#">View details</a>
@@ -250,7 +249,6 @@ $.each(medicalProfessionals, function(index, professional) {
         <div class='absolute inset-0 transition duration-200 bg-gray-900 opacity-0 rounded-2xl group-hover:opacity-60'></div>
         <div class='absolute inset-0 flex flex-col items-center justify-center transition duration-200 opacity-0 group-hover:opacity-100'>
             <div class='mb-4 shadow-sm w-33 rounded-2xl'>
-              <a class="inline-flex w-full justify-center items-center px-6 py-2 rounded-2xl shadow-sm border border-transparent text-sm font-medium rounded-2xl text-cool-indigo-700 bg-white transition duration-150 hover:bg-cool-indigo-100 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-cool-indigo-500" target="_blank" href="/resources/app-landing-page-themes-dev/demo">Preview</a>
             </div>
           <div class='shadow-sm w-33 rounded-2xl'>
             <a class="w-full justify-center inline-flex items-center px-6 py-2 border border-transparent text-sm font-medium rounded-2xl shadow-sm text-white transition duration-150 bg-cool-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-cool-indigo-500 view-details" href="#">View details</a>
